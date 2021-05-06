@@ -1,4 +1,4 @@
-# How do you do? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+# How do you do? 🐱‍🚀
 
 - 👋 Hi, I’m Lorenzo Di Spigno, @ldispi1
 - 👀 C/C++, Java, HTML, CSS, JS, React Native.
