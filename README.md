@@ -2,14 +2,18 @@
 
 - 👋 Hi, I’m Lorenzo Di Spigno, @ldispi1
 - 👀 C/C++, Java, HTML, CSS, JS, React Native.
-- 📫 <a href="mailto:ldispi1@gmail.com">ldispi1@gmail.com</a>, <a href="mailto:l.dispigno@rediscov.it">l.dispigno@rediscov.it</a>, <a href="mailto:l.dispigno@studenti.unipi.it">l.dispigno@studenti.unipi.it</a>
-- 🖥 website coming soon...
 
 <a href="https://rediscov.it/"> ![](https://img.shields.io/static/v1?label=Rediscov&message=%E2%9D%A4&color=47b19b) </a>
 
 ## 🗂️ Highlight Projects
 
-<pre>CEO - Redisc🔍v 👔💼, Freear - JA Italia 2018 🎧🙉, Borsetta 👜📱, Pentol.ino - Maker Faire Rome 2016 🍝💡, Ovedge 🔥❄</pre>
+<pre>
+CEO - Redisc🔍v 👔💼
+Freear - JA Italia 2018 🎧🙉
+Borsetta 👜📱
+Pentol.ino - Maker Faire Rome 2016 🍝💡
+Ovedge 🔥❄
+</pre>
 <!---
 ## &#x1f4c8; GitHub Stats
 
