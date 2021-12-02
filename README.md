@@ -1,7 +1,7 @@
 # How do you do? 
 
 - 👋 Hi, I’m Lorenzo Di Spigno, @ldispi1
-- 👀 C/C++, Java, HTML, CSS, JS, React Native.
+- 👀 C/C++, Java, HTML, CSS, PHP, JS.
 
 <a href="https://rediscov.it/"> ![](https://img.shields.io/static/v1?label=Rediscov&message=%E2%9D%A4&color=47b19b) </a>
 
